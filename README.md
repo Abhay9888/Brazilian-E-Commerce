@@ -1,4 +1,4 @@
-# 🛒 E-Commerce Analytics Dashboard | Power BI + PostgreSQL
+#  E-Commerce Analytics Dashboard | Power BI + PostgreSQL
 
 ##  Project Overview
 This project is a complete **E-Commerce Analytics Dashboard** developed using **Power BI** and **PostgreSQL** to analyze business performance across multiple domains including:
